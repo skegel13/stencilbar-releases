@@ -20,4 +20,4 @@ macOS 15 Sequoia or later.
 
 ## Help
 
-See [stencilbar.com](https://stenci
+See [stencilbar.com](https://stencilbar.com).
